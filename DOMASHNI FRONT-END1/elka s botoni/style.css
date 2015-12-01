@@ -1,0 +1,42 @@
+
+
+td th
+{
+text-align: center;
+background-image : url("backround.jpg") ;
+
+
+height: 60px;
+ width: 60px;
+
+
+
+}
+table {
+	border: 2px solid grey  ;
+	border-spacing:1px;
+	box-shadow: 0 0 10px #111;
+
+}
+.rezo
+{
+	border-collapse: auto;
+	border-style: solid;
+}
+
+.but
+{
+height: 60px;
+ width: 60px;
+}
+.but1
+{
+height: 120px;
+ width: 60px;
+}
+.but2
+{
+height: 60px;
+ width: 120px;
+}
+
